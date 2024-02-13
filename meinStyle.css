@@ -1,3 +1,12 @@
 body{
     background-color: cadetblue;
 }
+#titel{
+    font-style: italic;
+    text-decoration-color: brown;
+    background-image: image-set("https://images.pexels.com/photos/1249580/pexels-photo-1249580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+#eins{
+    border-radius: 1em;
+    box-shadow: 20px 20px 20px 20px rgb(0, 0, 0);
+}
